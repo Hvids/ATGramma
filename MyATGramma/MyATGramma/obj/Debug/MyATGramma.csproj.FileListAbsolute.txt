@@ -1,0 +1,7 @@
+c:\users\hvids\source\repos\MyATGramma\MyATGramma\obj\Debug\MyATGramma.csprojAssemblyReference.cache
+c:\users\hvids\source\repos\MyATGramma\MyATGramma\obj\Debug\MyATGramma.csproj.CoreCompileInputs.cache
+c:\users\hvids\source\repos\MyATGramma\MyATGramma\bin\Debug\MyATGramma.exe.config
+c:\users\hvids\source\repos\MyATGramma\MyATGramma\bin\Debug\MyATGramma.exe
+c:\users\hvids\source\repos\MyATGramma\MyATGramma\bin\Debug\MyATGramma.pdb
+c:\users\hvids\source\repos\MyATGramma\MyATGramma\obj\Debug\MyATGramma.exe
+c:\users\hvids\source\repos\MyATGramma\MyATGramma\obj\Debug\MyATGramma.pdb
